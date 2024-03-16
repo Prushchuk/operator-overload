@@ -1,9 +1,2 @@
 ﻿  ConsoleApplication43.cpp
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(80,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(81,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(82,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(83,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(86,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(87,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(88,5): error C2064: term does not evaluate to a function taking 2 arguments
-C:\Users\User\source\repos\ConsoleApplication43\ConsoleApplication43\ConsoleApplication43.cpp(89,5): error C2064: term does not evaluate to a function taking 2 arguments
+  ConsoleApplication43.vcxproj -> C:\Users\User\source\repos\ConsoleApplication43\x64\Debug\ConsoleApplication43.exe
